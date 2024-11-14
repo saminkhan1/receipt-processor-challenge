@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dateutil
+pytest
+httpx
+pytest-asyncio
+pytest-cov
+psutil
